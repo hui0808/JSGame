@@ -20,15 +20,14 @@ JSGame 的**核心原理**是通过**定时器**定义一个**游戏帧率**，�
 ## 实现项目
 
 - 使用 **canvas** 的
-
-  - **[block-breaker](https://gitee.com/hui0808/block-breaker)**  [在线地址](http://106.53.84.52/game/blockbreaker/)
-  - **[flybird](https://gitee.com/hui0808/flybird)**  [在线地址](http://106.53.84.52/game/flybird/)
-  - **[飞机大战](https://gitee.com/hui0808/airplane)**  [在线地址](http://106.53.84.52/game/airplane/)
+  - **[block-breaker](https://github.com/hui0808/block-breaker)**  [在线地址](http://106.53.84.52/game/blockbreaker/)
+  - **[flybird](https://github.com/hui0808/flybird)**  [在线地址](http://106.53.84.52/game/flybird/)
+  - **[飞机大战](https://github.com/hui0808/airplane)**  [在线地址](http://106.53.84.52/game/airplane/)
 - 使用 **DOM** 的
-  - **[扫雷](https://gitee.com/hui0808/mine-clearance)**  [在线地址](http://106.53.84.52/game/mine-clearance/)
-  - **[2048](https://gitee.com/hui0808/game-2048)** [在线地址](http://106.53.84.52/game/2048/)
-  - **[popstar](https://gitee.com/hui0808/popstar)**  [在线地址](http://106.53.84.52/game/popstar/)
-  - **[纸牌接龙](https://gitee.com/hui0808/klondike)**  [在线地址](http://106.53.84.52/game/klondike/)
+  - **[扫雷](https://github.com/hui0808/mine-clearance)**  [在线地址](http://106.53.84.52/game/mine-clearance/)
+  - **[2048](https://github.com/hui0808/2048)** [在线地址](http://106.53.84.52/game/2048/)
+  - **[popstar](https://github.com/hui0808/popstar)**  [在线地址](http://106.53.84.52/game/popstar/)
+  - **[纸牌接龙](https://github.com/hui0808/klondike)**  [在线地址](http://106.53.84.52/game/klondike/)
 
 > TIP：由于部署项目用的是学生优惠的腾讯云，上传带宽只有 1M，所以游戏加载会有些卡顿
 
